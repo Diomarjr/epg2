@@ -1,4 +1,5 @@
 
+
 <?xml version="1.0"?>
 <settings>
    
@@ -13,7 +14,7 @@
   <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>360</timespan>
+  <timespan>6</timespan>
   <update>f</update>
  
   <!--
@@ -25,24 +26,24 @@
   -->
   
     <channel update="i" site="clarotv.com.br" site_id="3" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
-  <channel update="i" site="lineup.net.br" site_id="538255" xmltv_id="SONY">SONY</channel>
-   <channel update="i" site="clarotv.com.br" site_id="249" xmltv_id="FOX LIFE">FOX LIFE</channel>
-     <channel update="i" site="lineup.net.br" site_id="112124" xmltv_id="FOX">FOX</channel>
-	     <channel update="i" site="clarotv.com.br" site_id="50" xmltv_id="HBO2">HBO2</channel>
-		    <channel update="i" site="clarotv.com.br" site_id="51" xmltv_id="HBO2 SIGNATURE">HBO2 SIGNATURE</channel>
-			<channel update="i" site="clarotv.com.br" site_id="54" xmltv_id="HBO PLUS">HBO PLUS</channel>
-			 <channel update="i" site="clarotv.com.br" site_id="52" xmltv_id="HBO FAMILY">HBO FAMILY</channel>
-			  <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO">HBO</channel>
-			   <channel update="i" site="clarotv.com.br" site_id="286" xmltv_id="MEGAPIX">MEGAPIX</channel>
-			   <channel update="i" site="clarotv.com.br" site_id="165" xmltv_id="Space">Space</channel>
-			   <channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="TELECINE TOUCH">TELECINE TOUCH</channel>
-			    <channel update="i" site="clarotv.com.br" site_id="97" xmltv_id="TELECINE PREMIUM">TELECINE PREMIUM</channel>
-				 <channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="TELECINE PIPOCA">TELECINE PIPOCA</channel>
-				   <channel update="i" site="clarotv.com.br" site_id="209" xmltv_id="TELECINE FUN">TELECINE FUN</channel>
-				   <channel update="i" site="clarotv.com.br" site_id="145" xmltv_id="TELECINE ACTION">TELECINE ACTION</channel>
-				     <channel update="i" site="lineup.net.br" site_id="562988" xmltv_id="HISTORYCHENAL">HISTORYCHENAL</channel>
-					  <channel update="i" site="lineup.net.br" site_id="543864" xmltv_id="HISTORY 2">HISTORY 2</channel>
-					   <channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
-					    <channel update="i" site="clarotv.com.br" site_id="48" xmltv_id="GNT">GNT</channel>
+    <channel update="i" site="lineup.net.br" site_id="538255" xmltv_id="SONY">SONY</channel>
+    <channel update="i" site="clarotv.com.br" site_id="249" xmltv_id="FOX LIFE">FOX LIFE</channel>
+    <channel update="i" site="lineup.net.br" site_id="112124" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="clarotv.com.br" site_id="50" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="clarotv.com.br" site_id="51" xmltv_id="HBO2 SIGNATURE">HBO2 SIGNATURE</channel>
+	<channel update="i" site="clarotv.com.br" site_id="54" xmltv_id="HBO PLUS">HBO PLUS</channel>
+    <channel update="i" site="clarotv.com.br" site_id="52" xmltv_id="HBO FAMILY">HBO FAMILY</channel>
+    <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO">HBO</channel>
+	<channel update="i" site="clarotv.com.br" site_id="286" xmltv_id="MEGAPIX">MEGAPIX</channel>
+	<channel update="i" site="clarotv.com.br" site_id="165" xmltv_id="Space">Space</channel>
+	<channel update="i" site="meuguia.tv" site_id="canal/TC3" xmltv_id="TELECINE TOUCH">TELECINE TOUCH</channel>
+	<channel update="i" site="clarotv.com.br" site_id="97" xmltv_id="TELECINE PREMIUM">TELECINE PREMIUM</channel>
+	<channel update="i" site="meuguia.tv" site_id="canal/TC4" xmltv_id="TELECINE PIPOCA">TELECINE PIPOCA</channel>
+	<channel update="i" site="clarotv.com.br" site_id="209" xmltv_id="TELECINE FUN">TELECINE FUN</channel>
+	<channel update="i" site="clarotv.com.br" site_id="145" xmltv_id="TELECINE ACTION">TELECINE ACTION</channel>
+	<channel update="i" site="lineup.net.br" site_id="562988" xmltv_id="HISTORYCHENAL">HISTORYCHENAL</channel>
+    <channel update="i" site="lineup.net.br" site_id="543864" xmltv_id="HISTORY 2">HISTORY 2</channel>
+	<channel update="i" site="meuguia.tv" site_id="canal/NGH" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+	<channel update="i" site="clarotv.com.br" site_id="48" xmltv_id="GNT">GNT</channel>
 	 
 </settings>
